@@ -1,5 +1,5 @@
 ---
-name: "cerberus-osx-1.0.0.0"
+name: "cerberus-osx-0.12.3"
 enable_cache: true
 suites:
 - "trusty"
